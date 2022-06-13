@@ -1,0 +1,24 @@
+[12-Apr-2022 20:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2022_04_12_221103_create_registereds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2022_04_12_221103_create_registereds_table.php on line 7
+[12-Apr-2022 20:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2022_04_12_221221_create_register_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2022_04_12_221221_create_register_users_table.php on line 7
+[12-Apr-2022 20:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[12-Apr-2022 20:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[12-Apr-2022 20:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[12-Apr-2022 20:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7

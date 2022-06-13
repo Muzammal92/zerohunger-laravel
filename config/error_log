@@ -1,0 +1,52 @@
+[12-Apr-2022 20:27:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/cache.php on line 18
+[12-Apr-2022 20:27:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/logging.php on line 20
+[12-Apr-2022 20:27:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/database.php on line 18
+[12-Apr-2022 20:27:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/sanctum.php on line 16
+[12-Apr-2022 20:27:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/services.php on line 18
+[12-Apr-2022 20:27:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/intedcfz/zerohunger.theazsoft.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/view.php on line 17
+[12-Apr-2022 20:27:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/broadcasting.php on line 18
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/hashing.php on line 32
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/session.php on line 21
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/queue.php on line 16
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/mail.php on line 16
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/filesystems.php on line 16
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/intedcfz/zerohunger.theazsoft.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/config/app.php on line 16

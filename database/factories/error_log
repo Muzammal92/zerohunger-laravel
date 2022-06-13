@@ -1,0 +1,4 @@
+[12-Apr-2022 20:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/intedcfz/zerohunger.theazsoft.com/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/database/factories/UserFactory.php on line 8

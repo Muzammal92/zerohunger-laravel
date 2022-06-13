@@ -1,0 +1,4 @@
+[12-Apr-2022 20:27:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/intedcfz/zerohunger.theazsoft.com/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/app/Http/Kernel.php on line 7

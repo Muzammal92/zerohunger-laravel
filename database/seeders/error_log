@@ -1,0 +1,4 @@
+[12-Apr-2022 20:27:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/intedcfz/zerohunger.theazsoft.com/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/database/seeders/DatabaseSeeder.php on line 7

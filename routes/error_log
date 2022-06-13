@@ -1,0 +1,16 @@
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/intedcfz/zerohunger.theazsoft.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/routes/console.php on line 17
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/intedcfz/zerohunger.theazsoft.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/routes/channels.php on line 16
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/intedcfz/zerohunger.theazsoft.com/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/routes/web.php on line 16
+[12-Apr-2022 20:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/intedcfz/zerohunger.theazsoft.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/routes/api.php on line 17

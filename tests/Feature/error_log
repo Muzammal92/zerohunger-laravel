@@ -1,0 +1,4 @@
+[12-Apr-2022 20:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/intedcfz/zerohunger.theazsoft.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/tests/Feature/ExampleTest.php on line 8

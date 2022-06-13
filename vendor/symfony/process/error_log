@@ -1,0 +1,4 @@
+[12-Apr-2022 20:27:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Process' not found in /home/intedcfz/zerohunger.theazsoft.com/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/vendor/symfony/process/PhpProcess.php on line 26

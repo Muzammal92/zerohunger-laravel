@@ -1,0 +1,12 @@
+[12-Apr-2022 20:27:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/intedcfz/zerohunger.theazsoft.com/app/Models/registered.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/app/Models/registered.php on line 8
+[12-Apr-2022 20:27:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/intedcfz/zerohunger.theazsoft.com/app/Models/register_user.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/app/Models/register_user.php on line 8
+[12-Apr-2022 20:27:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/intedcfz/zerohunger.theazsoft.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/app/Models/User.php on line 11

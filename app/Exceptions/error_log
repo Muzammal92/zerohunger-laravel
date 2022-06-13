@@ -1,0 +1,4 @@
+[12-Apr-2022 20:27:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/intedcfz/zerohunger.theazsoft.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intedcfz/zerohunger.theazsoft.com/app/Exceptions/Handler.php on line 8
