@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'zerohunger'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3BEF48D8C49D46989658474B411EE593 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_765856AA82FB4E12B615A84ADDFA9530 }}
           package: .
